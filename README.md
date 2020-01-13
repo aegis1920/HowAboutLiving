@@ -10,15 +10,15 @@
 
 ### 프로젝트 전체 아키텍처
 
-![프로젝트 아키텍처](C:\Users\niboh\Desktop\pjt-arch.PNG)
+![프로젝트 아키텍처](/img/pjt-arch.PNG)
 
 ### Spring Scheduler 활용
 
-![spring-scheduler](C:\Users\niboh\Desktop\spring-scheduler.PNG)
+![spring-scheduler](/img/spring-scheduler.PNG)
 
 ### Spring Batch 활용
 
-![spring-batch](C:\Users\niboh\Desktop\spring-batch.PNG)
+![spring-batch](/img/spring-batch.PNG)
 
 ## 프로젝트 실행
 
