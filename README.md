@@ -31,6 +31,7 @@ Spring boot 안에 프론트엔드가 있어 boot를 실행시키기만 하면 �
 IDE
 
 - STS 4.4.2
+- VScode
 
 기술스택
 
@@ -46,6 +47,10 @@ IDE
 - Spring Scheduler를 통해 공공데이터를 지속적으로 사용
 - Spring Batch를 통한 Read와 Process 과정
 - 공공데이터를 못 받아올 때 관리자에게 이메일 발송
+
+## 프로젝트 기간
+
+- 2019.12.02 ~ 2019.12.25 (4주)
 
 ## 고민했던 부분
 
